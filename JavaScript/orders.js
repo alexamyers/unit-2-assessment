@@ -45,8 +45,8 @@ class Ticket {
 }
 
 const shane = new Ticket('burger', '7:15', 'Shane')
-// console.log(shane.updateStatus('ready'))
-// console.log(shane.orderUp())
+console.log(shane.updateStatus('ready'))
+console.log(shane.orderUp())
 
 /*
     Create a new instance of your class.

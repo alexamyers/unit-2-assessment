@@ -49,7 +49,7 @@ const pizza = {
     Use dot notation to access the value.
 */
 
-// console.log(pizza.popularity)
+console.log(pizza.popularity)
 
 
 /*
@@ -59,7 +59,7 @@ const pizza = {
     get the value.
 */
 
-// console.log(pizza.tags[1])
+console.log(pizza.tags[1])
 
 
 /*
@@ -70,7 +70,7 @@ const pizza = {
 */
 
 const {price, specialPrice = 14.99} = pizza
-// console.log(specialPrice)
+console.log(specialPrice)
 
 
 /*
@@ -81,7 +81,7 @@ const {price, specialPrice = 14.99} = pizza
 */
 
 const {category} = pizza
-// console.log(category)
+console.log(category)
 
 
 //////////////////PROBLEM 3////////////////////

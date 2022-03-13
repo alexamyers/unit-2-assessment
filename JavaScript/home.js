@@ -22,7 +22,7 @@
 */
 
 const greetUser = username => `Welcome back , ${username}`
-// console.log(greetUser('Andrew'))
+console.log(greetUser('Andrew'))
 
 
 
@@ -60,7 +60,7 @@ function canWeDeliver(zipCode) {                           /* NEEDS FIXING*/
     }
 }
 
-// console.log(canWeDeliver(85206))
+console.log(canWeDeliver(85205))
 
 
 
@@ -89,7 +89,7 @@ function canWeDeliverTwo (zipCode) {
     }
 }
 
-// console.log(canWeDeliverTwo(85206))
+console.log(canWeDeliverTwo(85205))
 
 //////////////////PROBLEM 3////////////////////
 /* 

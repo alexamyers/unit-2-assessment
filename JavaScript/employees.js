@@ -48,7 +48,7 @@ const empOne = new Employee('Jess', 'weekday mornings, weekday afternoons')
     `empOne` object.
 */
 
-// console.log(empOne.getSchedule())
+console.log(empOne.getSchedule())
 
 
 /*
